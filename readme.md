@@ -1,5 +1,10 @@
 # MhsDesign.Neos.AfxFiles
 
+Install via composer:
+```
+composer require mhsdesign/neos-afxfiles
+```
+
 ## Provides option to use AFX in separate template files.
 
 Your Fusion Code:
