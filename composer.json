@@ -1,0 +1,19 @@
+{
+    "description": "Provides option to use AFX in separate template files.",
+    "type": "neos-package",
+    "name": "mhsdesign/neos-afxfiles",
+    "require": {
+        "neos/flow": "*",
+        "neos/fusion-afx": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MhsDesign\\Neos\\AfxFiles\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "MhsDesign.Neos.AfxFiles"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+Neos:
+  Fusion:
+    dsl:
+      afxFile: MhsDesign\Neos\AfxFiles\Dsl\AfxFilesDslImplementation
